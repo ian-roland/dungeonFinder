@@ -12,4 +12,9 @@
 - [ViteJS](https://vitejs.dev/)
 - [TailwindCSS](https://tailwindcss.com/)
 
+### Developers
+
+Ian Roland
+Alexis Gomes
+
 ---
